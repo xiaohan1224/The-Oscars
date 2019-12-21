@@ -24,7 +24,7 @@ The dataset contains game-by-game Elo ratings and forecasts back to 1946. As a f
    4. Prophet and sairma time series forecasting models are applied
 
 ## Result:
-  Classification:
+    Classification:
      1. KNN Accuracy              : 68.5%
      2. Neural Network Accuracy   : 66.50% 
      3. Random Forest Accuracy    : 66.49%
